@@ -1,34 +1,84 @@
-/* Import font */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
 
 /* Base Styling */
-*,
-::before,
-::after {
-    margin: 0;
-    padding: 0;
-    box-sizing: inherit;
+*,::before,::after {
+  margin:0;
+  padding: 0;
+  box-sizing: inherit;
 }
 
-html {
+html{
     font-size: 62.5%;
 }
-
-body {
+body{
     box-sizing: border-box;
-    font-family: Poppins, sans-serif;
+    font-family: "Poppins", sans-serif;
     overflow-x: hidden;
 }
 
-a {
+a{
     text-decoration: none;
-
 }
-
-ul {
-    list-style-type: none;
+ul{
+    list-style-type:none;
 }
-
-img {
+img{
     width: 100%;
 }
+
+/* navigation */
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
+
+.nav_logo{
+    width:150px;
+}
+.nav_logo_img{
+    object-fit: contain;
+}
+.nav_ul{
+    display: flex;
+    align-items:center;
+}
+.nav_ul >li{
+    margin-right: 8rem;
+}
+.nav_link{
+    font-weight: 700;
+    font-size: 1.6rem;
+    color: #333;
+    transition: all 0.3s;
+}
+.nav_link:hover{
+    color: #ff3700;   
+}
+.nav_btn{
+    padding: 1.3rem 4rem;
+    background-color: #ff3700;
+    color: white;
+    border: none;
+    border-radius: 100px;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    font-weight: 700;
+}
+.nav_btn:hover{
+    background: #a92500;
+}
+
