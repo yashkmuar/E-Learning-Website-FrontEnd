@@ -133,3 +133,11 @@ img{
     border: none;
     color: white;
 }
+
+.hero__btn--2{
+    border: 3px solid rgb(152, 152, 152);
+    margin-left: 2rem;
+    background: #04ab4c;
+    color: white;
+    border: none;
+}
