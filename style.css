@@ -82,3 +82,54 @@ img{
     background: #a92500;
 }
 
+/* Hero CSS Section */
+.hero{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    height: 70vh;
+    align-items: center;
+    width:80%;
+    margin: auto;
+
+}
+
+.hero__image{
+    width: 550px;
+    height: auto;
+    object-fit: contain;
+}
+
+.hero__text{
+    margin-left: 3rem;
+}
+
+.hero__text p{
+    font-size: 1.7rem;
+    text-transform: uppercase;
+    color: #002147;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.hero__text h1{
+    font-size: 6rem;
+    color: #002147;
+    line-height: 6.5rem;
+    margin-bottom: 3rem;
+}
+
+.hero__btn button{
+    padding: 1.3rem 4rem;
+    font-weight: 700;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    border-radius: 5px;
+}
+
+.hero__btn--1{
+    background: #002147;
+    border: none;
+    color: white;
+}
