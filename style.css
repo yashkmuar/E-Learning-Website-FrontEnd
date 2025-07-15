@@ -166,3 +166,11 @@ img{
 .about__info{
     grid-column: 2 / span 2;;
 }
+
+.about__subheading{
+    font-size: 1.7rem;
+    text-transform: uppercase;
+    color: #002147;
+    font-weight: bold;
+    margin-bottom: 1 rem;
+}
