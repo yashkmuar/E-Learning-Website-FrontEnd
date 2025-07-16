@@ -182,3 +182,26 @@ img{
     margin-bottom: 1.8rem;
     font-weight: bold;
 }
+
+.about__para{
+    font-size: 1.6rem;
+    color: #0000009c;
+    font-weight: 400;
+    margin-bottom: 3rem;
+}
+
+.about__list__item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.about__list__box{
+    width: 50px;
+    height: 50px;
+    background: rgb(255, 0, 68);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
