@@ -210,3 +210,19 @@ img{
     font-size: 2rem;
     color: white;
 }
+
+.about__list__text{
+    margin-left: 2rem;
+}
+
+.about__list__text h1{
+    color: #002147;
+    margin-bottom: 1rem;
+}
+
+.about__list__text p{
+    font-size: 1.4rem;
+    color: #0000009c;
+    font-weight: 400;
+    width: 80%;
+}
