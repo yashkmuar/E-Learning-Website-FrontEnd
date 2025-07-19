@@ -240,3 +240,11 @@ img{
     font-weight: bold;
     margin-bottom: 5rem;
 }
+
+.course{
+    width: 80%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: auto;
+    gap: 3rem;
+}
