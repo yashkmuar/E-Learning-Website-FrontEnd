@@ -226,3 +226,17 @@ img{
     font-weight: 400;
     width: 80%;
 }
+
+/* Course CSS Section */
+.course__section{
+    padding-top: 10rem;
+    padding-bottom: 3rem;
+}
+
+.course__heading{
+    text-align: center;
+    font-size: 6rem;
+    color: #002147;
+    font-weight: bold;
+    margin-bottom: 5rem;
+}
