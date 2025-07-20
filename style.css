@@ -309,3 +309,8 @@ img{
     display: flex;
     align-items: center;
 }
+
+.course__rating i{
+    font-size: 2rem;
+    color: orange;
+}
