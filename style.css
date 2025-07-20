@@ -272,5 +272,13 @@ img{
 .course__instructor{
     display: flex;
     align-items: center;
-    padding: 0.2rem;
+    padding: 0 2rem;
+}
+
+.course__instructor__img{
+    width: 35px;
+    height: 35px;
+    object-fit: contain;
+    border-radius: 100%;
+    overflow: hidden;
 }
