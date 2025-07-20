@@ -321,3 +321,7 @@ img{
     font-weight: 700;
     margin-left: 0.4rem;
 }
+
+.course__rating-count span{
+    color: gray
+}
