@@ -290,3 +290,10 @@ img{
     font-weight: bold;
     text-transform: capitalize;
 }
+
+.course__title{
+    font-size: 1.7rem;
+    padding: 2rem;
+    color: #333333fb;
+    font-weight: 700;
+}
