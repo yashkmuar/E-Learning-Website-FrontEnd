@@ -297,3 +297,10 @@ img{
     color: #333333fb;
     font-weight: 700;
 }
+
+.course__footer{
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
