@@ -325,3 +325,9 @@ img{
 .course__rating-count span{
     color: gray
 }
+
+.course__price{
+    font-size: 1.7rem;
+    color: #002147;
+    font-weight: bold;
+}
