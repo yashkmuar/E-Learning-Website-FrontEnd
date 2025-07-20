@@ -282,3 +282,11 @@ img{
     border-radius: 100%;
     overflow: hidden;
 }
+
+.course__instructor h3{
+    margin-left: 1rem;
+    font-size: 1.4rem;
+    color: #333;
+    font-weight: bold;
+    text-transform: capitalize;
+}
