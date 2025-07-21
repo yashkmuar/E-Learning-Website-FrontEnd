@@ -331,3 +331,7 @@ img{
     color: #002147;
     font-weight: bold;
 }
+
+.course__card:hover .course__image img{
+    transform: scale(1);
+}
