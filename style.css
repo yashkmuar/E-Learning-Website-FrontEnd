@@ -358,3 +358,14 @@ img{
     margin: auto;
     gap: 3rem;
 }
+
+.team__info{
+    width: 75%;
+    margin: auto;
+    background-color: #002147;
+    padding: 2rem;
+    position: relative;
+    margin-top: -2rem;
+    text-align: center;
+    color: white;
+}
