@@ -335,3 +335,17 @@ img{
 .course__card:hover .course__image img{
     transform: scale(1);
 }
+
+/* Team Section CSS */
+
+.team__section{
+    padding-top: 10rem;
+    padding-bottom: 3rem;
+}
+
+.team__heading{
+    text-align: center;
+    font-size: 6rem;
+    color: #002147;
+    
+}
