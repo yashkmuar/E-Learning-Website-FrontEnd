@@ -347,5 +347,6 @@ img{
     text-align: center;
     font-size: 6rem;
     color: #002147;
-    
+    font-weight: bold;
+    margin-bottom: 5rem;
 }
