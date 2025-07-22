@@ -369,3 +369,9 @@ img{
     text-align: center;
     color: white;
 }
+
+.team__info h2{
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 3px;
+}
