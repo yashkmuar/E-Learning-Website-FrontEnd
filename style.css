@@ -375,3 +375,8 @@ img{
     color: white;
     margin-bottom: 3px;
 }
+
+.team__info p{
+    font-size: 1.4rem;
+    color: #f0f0f0;
+}
