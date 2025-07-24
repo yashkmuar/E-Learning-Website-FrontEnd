@@ -402,3 +402,13 @@ img{
     grid-template-columns: 1fr 1fr;
     gap: 4rem;
 }
+
+.contact__form{
+    padding: 2rem;
+    box-shadow: 0px 3px 15px -1px rgba(0, 0, 0, 0.75);
+    border-radius: 10px;
+}
+
+.contact__form >input,textarea{
+    
+}
