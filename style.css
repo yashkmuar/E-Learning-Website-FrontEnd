@@ -394,3 +394,11 @@ img{
     font-weight: bold;
     margin-bottom: 5rem;
 }
+
+.contact{
+    display: grid;
+    width: 80%;
+    margin: auto;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+}
