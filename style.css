@@ -380,3 +380,17 @@ img{
     font-size: 1.4rem;
     color: #f0f0f0;
 }
+
+/* Contact Section CSS */
+.contact__section{
+    padding-top: 10rem;
+    padding-bottom: 3rem;
+}
+
+.contact__heading{
+    text-align: center;
+    font-size: 6rem;
+    color: #002147;
+    font-weight: bold;
+    margin-bottom: 5rem;
+}
