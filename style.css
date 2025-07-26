@@ -503,5 +503,15 @@ textarea {
 
 .footer__section{
     margin-top: 10rem;
-    background: #002147;
+    /* background: #002147; */
+}
+
+.footer{
+    width: 80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding: 4rem;
+    gap: 5rem;
+    align-items: center;
 }
