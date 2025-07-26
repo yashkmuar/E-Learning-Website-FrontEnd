@@ -491,4 +491,5 @@ textarea {
 .contact__info h1{
     color: #002147;
     text-transform: uppercase;
+    margin-bottom: 1rem;
 }
