@@ -459,3 +459,9 @@ textarea {
 .contact__form button:hover{
     background-color: red;
 }
+
+.contact__address{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
