@@ -493,3 +493,8 @@ textarea {
     text-transform: uppercase;
     margin-bottom: 1rem;
 }
+
+.contact__info p{
+    margin-bottom: 7px;
+    font-size: 1.4rem;
+}
