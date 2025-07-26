@@ -482,3 +482,8 @@ textarea {
     justify-content: center;
     align-items: center;
 }
+
+.contact__icon i{
+    font-size: 3rem;
+    color: white;
+}
