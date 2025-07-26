@@ -442,3 +442,16 @@ textarea{
 textarea {
     height: 200px;
 }
+
+.contact__form button{
+    padding: 1.5rem 4rem;
+    background-color: #002147;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: all 0.3s;
+}
