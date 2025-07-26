@@ -521,3 +521,16 @@ textarea {
     color: white;
     margin-bottom: 3rem;
 }
+
+.footer__content{
+    color: white;
+    display: flex;
+    margin-bottom: 2rem;
+    align-items: center;
+}
+
+.footer__content i{
+    color: white;
+    font-size: 2rem;
+    margin-right: 2rem;
+}
