@@ -471,3 +471,14 @@ textarea {
     display: flex;
     align-items: center;
 }
+
+.contact__icon{
+    width: 80px;
+    height: 80px;
+    background: orangered;
+    margin-right: 3rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
