@@ -487,3 +487,8 @@ textarea {
     font-size: 3rem;
     color: white;
 }
+
+.contact__info h1{
+    color: #002147;
+    text-transform: uppercase;
+}
