@@ -503,7 +503,7 @@ textarea {
 
 .footer__section{
     margin-top: 10rem;
-    /* background: #002147; */
+    background: #002147;
 }
 
 .footer{
@@ -514,4 +514,10 @@ textarea {
     padding: 4rem;
     gap: 5rem;
     align-items: center;
+}
+
+.footer__item h3{
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 3rem;
 }
