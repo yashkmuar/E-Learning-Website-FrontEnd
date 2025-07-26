@@ -499,3 +499,9 @@ textarea {
     font-size: 1.4rem;
 }
 
+/* Footer CSS Section */
+
+.footer__section{
+    margin-top: 10rem;
+    background: #002147;
+}
