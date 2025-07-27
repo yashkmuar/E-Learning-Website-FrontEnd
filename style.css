@@ -523,13 +523,12 @@ textarea {
 }
 
 .footer__content{
-    color: white;
     display: flex;
     margin-bottom: 2rem;
     align-items: center;
 }
 
-.footer__content i{
+.footer__item i{
     color: white;
     font-size: 2rem;
     margin-right: 2rem;
@@ -540,7 +539,7 @@ textarea {
     font-size: 1.4rem;
 }
 
-.footer__item p{
+.footer__list p{
     font-size: 1.4rem;
     color: rgb(179, 179, 179);
     margin-bottom: 2rem;
