@@ -547,3 +547,7 @@ textarea {
     transition: all 0.3s;
     width: fit-content;
 }
+
+.footer__list p:hover{
+    color: yellow;
+}
