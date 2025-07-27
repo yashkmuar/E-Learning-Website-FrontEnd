@@ -534,3 +534,13 @@ textarea {
     font-size: 2rem;
     margin-right: 2rem;
 }
+
+.footer__content p{
+    color: rgb(179, 179, 179);
+    font-size: 1.4rem;
+}
+
+.footer__list{
+    font-size: 1.4rem;
+    color: rgb(179, 179, 179);
+}
