@@ -526,6 +526,7 @@ textarea {
     display: flex;
     margin-bottom: 2rem;
     align-items: center;
+    cursor: pointer;
 }
 
 .footer__item i{
