@@ -540,7 +540,11 @@ textarea {
     font-size: 1.4rem;
 }
 
-.footer__list{
+.footer__item p{
     font-size: 1.4rem;
     color: rgb(179, 179, 179);
+    margin-bottom: 2rem;
+    cursor: pointer;
+    transition: all 0.3s;
+    width: fit-content;
 }
