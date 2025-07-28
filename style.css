@@ -1,3 +1,12 @@
+:root {
+    --primary-color: #008080;    /* Teal */
+    --secondary-color: #04ab4c;  /* Green */
+    --accent-color: #ff9800;     /* Orange */
+    --text-color: #002147;       /* Dark Blue */
+    --light-text: #f0f0f0;       /* Light Grey */
+}
+
+
 .poppins-regular {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -61,7 +70,7 @@ img{
 .nav_link{
     font-weight: 700;
     font-size: 1.6rem;
-    color: #333;
+    color: var(--text-color);
     transition: all 0.3s;
 }
 .nav_link:hover{
@@ -69,7 +78,7 @@ img{
 }
 .nav_btn{
     padding: 1.3rem 4rem;
-    background-color: #ff3700;
+    background-color: var(--primary-color);
     color: white;
     border: none;
     border-radius: 100px;
@@ -79,7 +88,7 @@ img{
     font-weight: 700;
 }
 .nav_btn:hover{
-    background: #a92500;
+    background: var(--accent-color);
 }
 
 /* Hero CSS Section */
@@ -129,17 +138,19 @@ img{
 }
 
 .hero__btn--1{
-    background: #002147;
+    background: var(--primary-color);
     border: none;
-    color: white;
+    color: #e8e5e5;
+    transition: all 0.3s ease;
 }
 
 .hero__btn--2{
     border: 3px solid rgb(152, 152, 152);
     margin-left: 2rem;
-    background: #04ab4c;
+    background: var(--secondary-color);
     color: white;
     border: none;
+    transition: 0.3s ease;
 }
 
 /* About CSS Section */
@@ -328,7 +339,7 @@ img{
 
 .course__price{
     font-size: 1.7rem;
-    color: #002147;
+    color: var(--primary-color);
     font-weight: bold;
 }
 
@@ -503,7 +514,7 @@ textarea {
 
 .footer__section{
     margin-top: 10rem;
-    background: #002147;
+    background: var(--primary-color);
 }
 
 .footer{
